@@ -1,2 +1,2 @@
 # custom-react
-creating react app without using npx-creat-react
+Creating react app without using npx-creat-react
